@@ -1,11 +1,10 @@
-PROGRAMA CREADO POR: ALEJANDRO BEGUER RUIZ
-Grupo: SALAS EMPRENDE
+# CREDITOS
+PROGRAMA CREADO POR: ALEJANDRO BEGUER RUIZ\n
+Grupo: SALAS EMPRENDE\n
 Centro: IES NEWTON-SALAS (Villanueva de la Torre)
-########################################################
+___________________________________________________
+# GUIA DE USO
 
--------------
- GUIA DE USO
--------------
 - Primero deberás abrir "pograma.exe" en el que se mostrara una ventana con un cuestionario.
 
 - A continuación se deran escribir los datos.
