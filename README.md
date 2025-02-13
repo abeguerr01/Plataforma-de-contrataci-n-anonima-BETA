@@ -1,7 +1,10 @@
 # CREDITOS
-PROGRAMA CREADO POR: ALEJANDRO BEGUER RUIZ
+PROGRAMA ALEJANDRO BEGUER RUIZ
+----
 Grupo: SALAS EMPRENDE
+----
 Centro: IES NEWTON-SALAS (Villanueva de la Torre)
+----
 ___________________________________________________
 # GUIA DE USO
 
